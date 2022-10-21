@@ -8,7 +8,7 @@
   <img align="center" alt="karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="karol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="karol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="karol-avatar" height="30" width="40" src="https://drive.google.com/file/d/1exKxrjTgo8chciRHbxmUpGks2PuJd1VG/view?usp=sharing">
+<img align="right" alt="karol-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1exKxrjTgo8chciRHbxmUpGks2PuJd1VG/view?usp=sharing">
 </div>
   
   ##
